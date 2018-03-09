@@ -6,4 +6,4 @@ def roll
   rand(2..6)
 end
 
-puts roll()
+# puts roll()
