@@ -5,11 +5,10 @@
 # def roll
 #   rand(1...7)
 # end
-# 
+#
 # # puts roll()
 
 def roll
   nums = Array (1...7)
   nums[rand(0...6)]
 end
-
